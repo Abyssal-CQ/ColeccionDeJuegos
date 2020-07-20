@@ -2,9 +2,6 @@
 //  JuegosViewController.swift
 //  ColeccionDeJuegos
 //
-//  Created by Oswaldo Naupa Laura on 6/16/20.
-//  Copyright © 2020 deah. All rights reserved.
-//
 
 import UIKit
 
